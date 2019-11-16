@@ -1,2 +1,5 @@
 # hellow_world
-just a  sample new repository 
+
+Hello everyone!I am Young.I come from China.I very great to comminute with you on the GitHub.
+
+
